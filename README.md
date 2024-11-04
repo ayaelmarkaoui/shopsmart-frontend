@@ -1,3 +1,4 @@
+By aya el markaoui Developer web
 # Shopping List Application
 
 ## Project Overview
